@@ -1,7 +1,7 @@
-export default function SignIn() {
-  return (
-    <main>
-      <h1 className="h1-bold">SignIn</h1>
-    </main>
-  );
+import React from "react";
+
+function SignIn() {
+  return <div>SignIn</div>;
 }
+
+export default SignIn;
